@@ -78,7 +78,7 @@ Our simulation results demonstrate that:
    java -cp bin/ SemaphorePerformanceTest
    ```
 
-5. Results will be saved to CSV files in the results/ directory
+5. Results will be saved to CSV files.
 
 ## Customising Simulations
 
